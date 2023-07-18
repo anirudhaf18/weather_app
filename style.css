@@ -14,9 +14,9 @@ body {
   max-width: 470px;
   background: linear-gradient(135deg, #00feba, #5b548a);
   color: #fff;
-  margin: 100px auto 0;
+  margin: 0px auto 0;
   border-radius: 20px;
-  padding: 40px 35px;
+  padding: 30px 35px;
   text-align: center;
 }
 
@@ -128,6 +128,14 @@ body {
   text-align: center;
 }
 
+.heading{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
 @media only screen and (min-width:300px) and (max-width:450px){
   .search input {
     border: 0;
@@ -146,9 +154,9 @@ body {
     max-width: 470px;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
-    margin: 100px auto 0;
+    margin: 0px auto 0;
     border-radius: 20px;
-    padding: 40px 15px;
+    padding: 30px 18px;
     text-align: center;
   }
 
